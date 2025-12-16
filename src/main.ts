@@ -1,6 +1,6 @@
 import './style.css'
 import { setupCounter } from './counter.ts'
-import { charmander } from './bases/05-decoratores.ts'
+import { charmander } from './bases/06-decorater.ts'
 
 
 
